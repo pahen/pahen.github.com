@@ -1,3 +1,3 @@
 [submodule "spiral3d"]
 	path = spiral3d
-	url = git@github.com:pahen/spiral3d.git
+	url = git://github.com/pahen/spiral3d.git
